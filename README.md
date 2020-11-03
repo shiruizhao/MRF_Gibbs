@@ -5,7 +5,7 @@ Three different models were implements. Two of them used Gibbs sampling based on
 
 ![Change point model](example/output/CPM.png)
 ## Color Image Segementation
-[code](Image denoising using Gibbs sampling and Ising model) developed EM Algorithm for image segmentation.
+[[code]](https://github.com/suprajamk/image_denoising_and_segmentation.git) It developed EM Algorithm for image segmentation.
 ```
 cd example/mrf_example
 python image_segmentation.py
@@ -15,7 +15,7 @@ python image_segmentation.py
 ![zebra foregroud](example/output/zebra_foreground.jpg)
 ![zebra background](example/output/zebra_background.jpg)
 ## Image Denoising
-[code](Image denoising using Gibbs sampling and Ising model) developed Gibbs sampling and Ising model for image denoising.
+[[code]](https://github.com/suprajamk/image_denoising_and_segmentation.git) Image denoising using Gibbs sampling and Ising model developed Gibbs sampling and Ising model for image denoising.
 The denoise function has bugs.
 ```
 cd example/mrf_example
